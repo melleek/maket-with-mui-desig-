@@ -1,0 +1,73 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.bg {
+  background-image: url("src/assets/uae-4-2048x1367 2.png");
+  background-repeat: no-repeat;
+}
+
+.bg1 {
+  background: rgba(0, 0, 0, 0.59);
+  background-repeat: no-repeat;
+}
+
+.card1 {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.09);
+  width: 350px;
+  border-radius: 10px;
+}
+
+.jk {
+  background-image: url("src/assets/main/startup 3.png");
+  background-repeat: no-repeat;
+}
+
+.mn {
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.div1 {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.09);
+}
+
+.gt {
+  border-radius: 10px;
+  background: #FFF;
+  padding: 15px;
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.09);
+}
+
+.d1 {
+  border-radius: 10px;
+  background: #FFF;
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.09);
+  width: 289px;
+}
+
+.d2 {
+  border-radius: 10px;
+  background: var(--1178-b-2, #1178B2);
+  box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.10);
+  width: 289px;
+}
+
+.jk4 {
+  background-image: url("src/assets/Group 796.png");
+  background-repeat: no-repeat;
+
+}
+
+.gj {
+  border-radius: 10px;
+  background: #FFF;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
+  width: 206px;
+  height: 100px;
+}
